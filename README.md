@@ -3,7 +3,7 @@ Frontend Developer | Network Engineer | Content Creator
 Building modern, responsive, and interactive web experiences while helping others learn web development through practical
 tutorial and tips.
 # 💫 About Me:
-Hi there, I'm Anurag Awasthi! 👋<br><br>- 🔭 I'm currently working on scalable UI components and modern web apps.<br>- 🌱 I'm currently learning advanced state management and performance optimization.<br>- 💬 Ask me about HTML, CSS, JavaScript, TypeScript, and React/Next.js.<br>- 📫 How to reach me: anuragawasthi1213@gmail.com
+Hi there, I'm Anurag Awasthi! 👋<br><br>- 🔭 I'm currently working on scalable UI components and modern web apps.<br>- 🌱 I'm currently learning advanced state management and performance optimization.<br>- 💬 Ask me about HTML, CSS, JavaScript, TypeScript, and React/Next.js./Java<br>- 📫 How to reach me: anuragawasthi1213@gmail.com
 
 
 ## 🌐 Socials:
